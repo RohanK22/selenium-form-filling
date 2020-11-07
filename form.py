@@ -54,7 +54,7 @@ time.sleep(1)
 
 
 web.save_screenshot('./confirmationImg.png')
-web.close()
+
 
 from PIL import Image
 
